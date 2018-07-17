@@ -1,0 +1,9 @@
+Building DreamSuccessCoin
+
+See doc/readme-qt.rst for instructions on building DreamSuccessCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DreamSuccessCoin.
+
+See doc/build-*.txt for instructions on building dreamsuccesscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DreamSuccessCoin.
